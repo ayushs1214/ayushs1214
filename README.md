@@ -110,6 +110,8 @@ fun:      cricket 🏏  |  cooking 🍳  |  YouTube 🎥
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
 **Databases & Infra**
 
@@ -118,12 +120,50 @@ fun:      cricket 🏏  |  cooking 🍳  |  YouTube 🎥
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
 
-**GTM & Partnerships**
+---
+
+### 🎯 GTM & Outreach
+
+**Prospecting & Lead Intelligence**
+
+![LinkedIn Sales Navigator](https://img.shields.io/badge/Sales_Navigator-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
+![Apollo.io](https://img.shields.io/badge/Apollo.io-6B3FA0?style=flat-square&logo=apollographql&logoColor=white)
+![Clay](https://img.shields.io/badge/Clay-000000?style=flat-square&logo=clay&logoColor=white)
+![Hunter.io](https://img.shields.io/badge/Hunter.io-F97316?style=flat-square&logoColor=white)
+![Lusha](https://img.shields.io/badge/Lusha-0EA5E9?style=flat-square&logoColor=white)
+![ZoomInfo](https://img.shields.io/badge/ZoomInfo-FF6B35?style=flat-square&logoColor=white)
+
+**Outreach & Sequencing**
+
+![Meet Alfred](https://img.shields.io/badge/Meet_Alfred-5C6BC0?style=flat-square&logoColor=white)
+![Lemlist](https://img.shields.io/badge/Lemlist-FF4B4B?style=flat-square&logoColor=white)
+![Instantly](https://img.shields.io/badge/Instantly-0EA5E9?style=flat-square&logoColor=white)
+![Smartlead](https://img.shields.io/badge/Smartlead-10B981?style=flat-square&logoColor=white)
+![Expandi](https://img.shields.io/badge/Expandi-6366F1?style=flat-square&logoColor=white)
+
+**CRM & Revenue Ops**
 
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Pipedrive](https://img.shields.io/badge/Pipedrive-1A1A2E?style=flat-square&logo=pipedrive&logoColor=white)
+
+**AI Sales & Enablement**
+
+![Euler](https://img.shields.io/badge/Euler_Tools-8B5CF6?style=flat-square&logoColor=white)
+![Gong](https://img.shields.io/badge/Gong-7C3AED?style=flat-square&logoColor=white)
+![Chorus](https://img.shields.io/badge/Chorus.ai-059669?style=flat-square&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logoColor=white)
+
+**Productivity & Collaboration**
+
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Loom](https://img.shields.io/badge/Loom-625DF5?style=flat-square&logo=loom&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
 
 </div>
 
